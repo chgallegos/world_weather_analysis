@@ -1,7 +1,10 @@
 # WORLD WEATHER ANALYSIS
 ----
 ## Overview
+
 The purpose of this exercise is to engage with the use of APIs by the creation of a database based on 2,000 random latitudes and longitudes. This database was subsequently used in the development of two tools, a hotel search tool based on temperature preferences and an itinerary based on directions.
+
+
 ----
 ## Results
 ### PART 1 "Weather Database"
